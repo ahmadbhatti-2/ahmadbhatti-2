@@ -32,5 +32,5 @@ End-to-end ML pipeline with SMOTE, CV tuning & batch inference
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-saeed-07b5b8408/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/ahmad-saeed-ml/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ahmadbhatti99888@gmail.com)
