@@ -6,6 +6,13 @@
 
 ## Projects
 
+### Enterprise Compliance & Risk Intelligence Platform
+[View Repo](https://github.com/ahmadbhatti-2/enterprise-compliance-rag)
+
+Full-stack RAG platform for enterprise compliance, AI risk, privacy, and governance documents.
+
+Tech: Python, FastAPI, LangChain, ChromaDB, BM25, RRF, Cross-Encoder Reranking, Gemini, React
+
 ### 🫀 CardioRisk ML Pipeline
 [View Repo](https://github.com/ahmadbhatti-2/CardioRisk-ML-Pipeline)
 
