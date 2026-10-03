@@ -13,6 +13,13 @@ Full-stack RAG platform for enterprise compliance, AI risk, privacy, and governa
 
 Tech: Python, FastAPI, LangChain, ChromaDB, BM25, RRF, Cross-Encoder Reranking, Gemini, React
 
+### 🏋️ FitMind — AI Fitness Recommendation & Coaching System
+[View Repo](https://github.com/ahmadbhatti-2/FitMind-AI-Fitness-Assistant)
+
+AI-powered personalized fitness assistant that generates explainable workout and nutrition recommendations based on user profile, goals, history, recovery, and feedback.
+
+Tech: Python, FastAPI, LangGraph, Gemini, PostgreSQL, React, Rule-Based Recommendation
+
 ### 🫀 CardioRisk ML Pipeline
 [View Repo](https://github.com/ahmadbhatti-2/CardioRisk-ML-Pipeline)
 
